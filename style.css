@@ -1,0 +1,30 @@
+.encabezado {
+    color: rgb(43, 104, 226);
+    text-decoration: underline;
+}
+
+h1 {
+    color: rgb(21, 8, 94);
+    text-decoration: underline;
+}
+
+#identificador {
+    color: rgb(245, 226, 59);
+    font-size: 200%;
+}
+
+.sección1 {
+    background-color: rgb(59, 75, 255);
+    color: rgb(250, 241, 118);
+    text-decoration: underline;
+    text-align: center
+}
+
+.sección2 {
+    background-color: rgb(251, 237, 131);
+    color: rgb(69, 148, 22);
+    text-decoration: underline;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}

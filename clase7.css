@@ -1,0 +1,23 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+h1 {
+    color: blue;
+    font-size: 20px;
+    padding-top: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+.fondo {
+    background-color: cadetblue;
+    width: 200px;
+}
+
+P {
+    float: left;
+    padding: 0%;
+    margin: 0%;
+}
